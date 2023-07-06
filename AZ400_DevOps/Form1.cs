@@ -9,7 +9,7 @@ namespace AZ400_DevOps
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-            // this is message for you. Edited again
+            // this is message for you. Edited again..
             this.Close();
         }
     }
